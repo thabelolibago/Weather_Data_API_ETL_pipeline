@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 # OpenWeather API key.
-api_key = "2d8fef17a92a4ef3839c7fcea8fb98db"
+api_key = "........."
 
 # Get the city from the user.
 city_name = input("Enter a city: ")
